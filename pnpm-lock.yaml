@@ -39,8 +39,8 @@ dependencies:
     specifier: 3.0.3
     version: 3.0.3
   apple-signin-auth:
-    specifier: 1.7.6
-    version: 1.7.6
+    specifier: 1.7.8
+    version: 1.7.8
   bcryptjs:
     specifier: 2.4.3
     version: 2.4.3
@@ -3466,8 +3466,8 @@ packages:
   /append-field@1.0.0:
     resolution: {integrity: sha512-klpgFSWLW1ZEs8svjfb7g4qWY0YS5imI82dTg+QahUvJ8YqAY0P10Uk8tTyh9ZGuYEZEMaeJYCF5BFuX552hsw==}
 
-  /apple-signin-auth@1.7.6:
-    resolution: {integrity: sha512-edXKmteQRbsaxZRvF1mJpbI5UgTvoTnUrdco8+KLiFvOIh/naEB4BYu0xkWZ9+OeFQup1YyvVf5PlaaNAJHpGg==}
+  /apple-signin-auth@1.7.8:
+    resolution: {integrity: sha512-rPMPl3CdGJnNuZpH7SXeJDO8NtR+DmL9taHcidfTyIQFEda/z2GkrR1YvQ1TjIvJt8p4RlnqCxsCXOI0yFS+ew==}
     dependencies:
       jsonwebtoken: 9.0.2
       node-fetch: 2.7.0
